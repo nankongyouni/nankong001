@@ -8,4 +8,8 @@ hello
 <<<<<<< HEAD
 lanlandetiankong
 shekjkelrjelw
+<<<<<<< HEAD
 >>>>>>> 883612984bf71779f820aad8491d9375095c3903
+=======
+5555555
+>>>>>>> 6b691ec91eb4cb6c04811256526a50c851e9db80
